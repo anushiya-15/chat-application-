@@ -136,3 +136,16 @@ Open your browser and go to http://localhost:3000
 
 This project marks an important step in my internship journey at CodTech IT Solution, demonstrating my ability to build real-time, full-stack web applications.
 It not only reflects my learning progress but also lays the foundation for more advanced development tasks in the future.
+
+
+#OUTPUT  
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2228088b-0df7-4d7b-aa17-41d7d31bc825" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e1494364-474e-4179-9d37-f143b5c6a55f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/52c6c5a3-6edf-4e15-9a0d-6703e6e6e036" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1ffe77fc-4a8d-4c4f-bf19-50b20dba15c7" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/15019a8d-1e7b-4b55-812b-64bb0be2c61c" />
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/1188d96c-6d21-43c4-8709-b2cd5e6b1f2b" />
+<img width="1918" height="1022" alt="Image" src="https://github.com/user-attachments/assets/10d03390-f63e-44d5-8e1e-127097d00b23" />
+<img width="1918" height="1021" alt="Image" src="https://github.com/user-attachments/assets/df62a596-5162-4d67-92e1-e8f650c4722b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/346f89e5-e25a-4f0b-9a5b-26d70b4a6424" />
